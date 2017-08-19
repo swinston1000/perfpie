@@ -1,0 +1,22 @@
+.App {
+    text-align: center;
+    margin: 10%;
+    font-size: 16px;
+}
+
+.title {
+    margin-bottom: 30px;
+}
+
+.form-control {
+    margin-bottom: 15px;
+}
+
+.radio-inline {
+    padding-right: 10px;
+}
+
+.submitButton {
+    margin-top: 30px;
+    padding: 15px 20px;
+}
